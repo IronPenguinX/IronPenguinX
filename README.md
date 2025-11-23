@@ -84,7 +84,7 @@
 ## 👀 Ziyaretçi Sayısı
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hllckc.hllckc" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hllckc.hllckc_v2" />
 </p>
 
 <p align="center">
