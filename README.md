@@ -51,20 +51,23 @@
 ## 📬 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:halilcakici001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/hllckc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.youtube.com/@Rusthane" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/halil__ckc__h/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://halilcakici.com.tr/" target="_blank">
-  <img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Sitesi">
+  <a href="mailto:halilcakici001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/hllckc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+    <a href="https://git.halilcakici.com.tr/hllckc" target="_blank">
+    <img src="https://img.shields.io/badge/Forgejo-4A82C3?style=for-the-badge&logo=git&logoColor=white" alt="Forgejo">
+  </a>
+  <a href="https://www.youtube.com/@Rusthane" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.instagram.com/halil__ckc__h/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://halilcakici.com.tr/" target="_blank">
+  <img src="https://img.shields.io/badge/Web%20Sitesi-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Sitesi">
 </a>
 </p>
 </p>
