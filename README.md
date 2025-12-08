@@ -6,10 +6,9 @@
 
 ## 🧠 Hakkımda
 
-> 🎯 Gömülü sistemler, *bare-metal Rust* ve *donanım yakın yazılım* geliştirme alanlarında çalışıyorum.  
-> 🛠 Özellikle *STM32, **ATmega328P, **PlatformIO* ve *ARM Cortex-M* üzerine uzmanlaşıyorum.  
-> 📚 Öğrenmeye açık, her gün biraz daha gelişmeye çalışan bir bilgisayar mühendisiyim.
-
+> 🎯 **Rust** dilinin güvenilirlik ve performans gücünü kullanarak, hem **Gömülü Sistemler** (bare-metal) hem de **Web Backend Geliştirme** (Axum framework) alanlarında uzmanlaşıyorum.
+> 🛠 Özellikle **Gömülü Sistemler** odağında *STM32, **ATmega328P, **PlatformIO* ve *ARM Cortex-M* mimarileri üzerine yetkinliğimi ve bilgimi sürekli geliştiriyorum.
+> 📚 Sürekli öğrenmeye odaklı, donanım yakın yazılımdan yüksek performanslı sunucu uygulamalarına kadar geniş bir yelpazede kendimi geliştiren bir bilgisayar mühendisiyim.
 ---
 
 
