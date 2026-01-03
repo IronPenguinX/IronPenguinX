@@ -52,8 +52,6 @@
 
 ## 📈 GitHub Aktivite
 
-<img src="https://streak-stats.demolab.com?user=IronPenguinX&theme=radical&hide_border=true" />
-
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
