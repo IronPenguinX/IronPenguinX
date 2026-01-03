@@ -80,11 +80,48 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer"/>
 </p>
 
---------------------------
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=IronPenguinX&
-theme=react-dark&
-hide_border=true" />
+
+<!-- ================= EXTRA ANIMATIONS START ================= -->
+
+<p align="center">
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4ECDC4&center=true&vCenter=true&width=700&lines=IronPenguinX;Embedded+Systems+Engineer;Rust+%7C+Bare+Metal;STM32+%7C+ARM+Cortex-M;Axum+Backend+Developer" />
+
+<br/><br/>
+
+<!-- Skill icons -->
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,git,docker,stm32&theme=dark" />
+
+<br/><br/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=IronPenguinX&show_icons=true&theme=radical&hide_border=true" />
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IronPenguinX&theme=radical&hide_border=true" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IronPenguinX&theme=react-dark&hide_border=true" />
+
+<br/><br/>
+
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=IronPenguinX&theme=darkhub&no-frame=true&row=1" />
+
+<br/><br/>
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=IronPenguinX&style=for-the-badge&color=blueviolet" />
+
+</p>
+
+<!-- ================= EXTRA ANIMATIONS END ================= -->
+
 
 
 
