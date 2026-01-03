@@ -1,17 +1,14 @@
-<!-- PROFİL BANNER -->
+<!-- ================= PROFİL BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=IronPenguinX&fontSize=44&fontColor=F8F8FF&fontAlignY=35&animation=twinkling" />
 </p>
 
+<!-- SAĞ ÜST ANİMASYON (tek başına bırakıldı) -->
+<a href="#">
+  <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="180" height="180" />
+</a>
 
-
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
-
-
-
-
-<!-- TYPING ANIMATION -->
+<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4ECDC4&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Rust+%7C+Bare+Metal+Firmware;STM32+%7C+ATmega328P+%7C+ARM+Cortex-M;Axum+Backend+Developer" />
 </p>
@@ -21,9 +18,9 @@
 ## 🧠 Hakkımda
 
 > * 🎯 **Gömülü Sistemler (Bare-Metal)** ve **Web Backend (Axum)** alanlarında çalışıyorum  
-> * ⚙️ Ana dilim **Rust**, register seviyesinden yüksek performanslı backend sistemlere kadar  
+> * ⚙️ Ana dilim **Rust** — register seviyesinden yüksek performanslı backend sistemlere kadar  
 > * 🛠 **STM32**, **ATmega328P**, **ARM Cortex-M**, **PlatformIO**  
-> * 📚 Sürekli öğrenen, sistemleri derinlemesine anlamaya odaklı bir bilgisayar mühendisi
+> * 📚 Sistemleri derinlemesine anlamaya odaklı, sürekli öğrenen bir bilgisayar mühendisi  
 
 ---
 
@@ -51,7 +48,7 @@
   <img src="https://img.shields.io/badge/STM32CubeIDE-0A112D?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 </p>
 
-<!-- MODERN SKILL ICONS -->
+<!-- MODERN SKILL ICONS (badge’leri tamamlayan modern görünüm) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,git,docker,stm32&theme=dark" />
 </p>
@@ -59,7 +56,6 @@
 ---
 
 ## 📈 GitHub Aktivite
-
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
@@ -103,6 +99,7 @@
 
 ---
 
+<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=150&section=footer"/>
 </p>
